@@ -3,10 +3,9 @@
 /**
  * main - Entry point
  *
+ * int main(void)
  * Return: Always 0 (Success)
  */
-
-int main(void)
 
 {
 
