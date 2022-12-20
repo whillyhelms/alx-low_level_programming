@@ -6,7 +6,7 @@ include "main.h"
  * Return: the length of the string
  */
 
-void _puts(char *str)
+void _puts(char *str);
 {
 	int a = 0;
 
